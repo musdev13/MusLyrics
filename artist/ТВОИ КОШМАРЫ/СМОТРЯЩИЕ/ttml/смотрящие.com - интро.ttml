@@ -1,0 +1,57 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:composer="https://composer.betterlyrics.org/ttml" ttp:timeBase="media" xml:lang="ru" itunes:timing="Word" composer:timing="Word" composer:build="3lagl1v3">
+  <head>
+    <metadata>
+      <ttm:title>//смотрящие.com - интро</ttm:title>
+      <composer:meta key="artists" value="ТВОИ КОШМАРЫ"/>
+      <composer:meta key="album" value="СМОТРЯЩИЕ"/>
+      <composer:meta key="Source" value="MusLyrics"/>
+      <ttm:agent xml:id="v1" type="person">
+        <ttm:name>Lead</ttm:name>
+      </ttm:agent>
+      <iTunesMetadata xmlns="http://music.apple.com/lyric-ttml-internal">
+        <translations>
+          <translation xml:lang="en" type="subtitle">
+            <text for="L2">The connection has been established.</text>
+            <text for="L3">The notification is activated.</text>
+            <text for="L4">The program "watchers" is a laboratory monitoring module</text>
+            <text for="L5">and analytics of human desires.</text>
+            <text for="L6">The system records, classifies and evaluates the parameters of desires,</text>
+            <text for="L7">in accordance with internal metrics.</text>
+            <text for="L8">By clicking on the button, you automatically signed consent to listen</text>
+            <text for="L9">of this audio material</text>
+            <text for="L11">*knock* *knock* *knock*</text>
+          </translation>
+        </translations>
+        <transliterations>
+          <transliteration xml:lang="ru-Latn">
+            <text for="L1"><span begin="0:07.379" end="0:07.429">--</span><span begin="0:07.650" end="0:07.789">Synced</span>  <span begin="0:08.205" end="0:08.246">by</span>  <span begin="0:08.307" end="0:08.525">Musek</span></text>
+            <text for="L2"><span begin="0:24.251" end="0:25.003">Soyedineniye</span>  <span begin="0:25.003" end="0:25.667">ustanovleno.</span></text>
+            <text for="L3"><span begin="0:25.940" end="0:26.601">Uvedomleniye</span>  <span begin="0:26.636" end="0:27.336">aktivirovano.</span></text>
+            <text for="L4"><span begin="0:27.905" end="0:28.341">Programma</span>  <span begin="0:28.341" end="0:29.181">"smotryashchiy</span><span begin="0:29.244" end="0:29.324">e</span><span begin="0:29.352" end="0:29.578">"-et</span><span begin="0:29.619" end="0:30.223">o  laborotornyy</span>  <span begin="0:30.275" end="0:30.647">modul</span><span begin="0:30.647" end="0:31.291">'  monitoringa</span></text>
+            <text for="L5"><span begin="0:31.381" end="0:31.451">i</span>  <span begin="0:31.451" end="0:32.061">analitiki</span>  <span begin="0:32.079" end="0:32.603">zhelaniy</span>  <span begin="0:32.603" end="0:33.265">cheloveka.</span></text>
+            <text for="L6"><span begin="0:33.748" end="0:34.225">Sistema</span>  <span begin="0:34.239" end="0:34.853">fiksiruyet,</span>  <span begin="0:34.978" end="0:35.927">klassifitsiruyet</span>  <span begin="0:36.052" end="0:36.138">i</span>  <span begin="0:36.138" end="0:36.712">otsenivayet</span>  <span begin="0:36.812" end="0:37.278">parametry</span>  <span begin="0:37.278" end="0:37.711">zhelaniy,</span></text>
+            <text for="L7"><span begin="0:37.734" end="0:37.788">v</span>  <span begin="0:37.788" end="0:38.524">sootvestvii</span>  <span begin="0:38.570" end="0:38.700">s</span>  <span begin="0:38.732" end="0:39.300">vnutrennimi</span>  <span begin="0:39.361" end="0:39.879">metrikami.</span></text>
+            <text for="L8"><span begin="0:40.675" end="0:41.002">Nazhav</span>  <span begin="0:41.055" end="0:41.148">na</span>  <span begin="0:41.204" end="0:41.640">knopku,</span>  <span begin="0:41.904" end="0:42.032">vy</span>  <span begin="0:42.032" end="0:42.845">avtomaticheski</span>  <span begin="0:42.911" end="0:43.401">podpisali</span>  <span begin="0:43.499" end="0:43.988">soglasiye</span>  <span begin="0:44.035" end="0:44.128">na</span>  <span begin="0:44.192" end="0:44.969">proslushivaniye</span></text>
+            <text for="L9"><span begin="0:45.049" end="0:45.412">dannogo</span>  <span begin="0:45.474" end="0:46.428">audio-materiala</span></text>
+            <text for="L11"><span begin="0:48.817" end="0:48.899">*tuk*</span>  <span begin="0:49.033" end="0:49.108">*tuk*</span>  <span begin="0:49.254" end="0:49.339">*tuk*</span></text>
+          </transliteration>
+        </transliterations>
+      </iTunesMetadata>
+    </metadata>
+  </head>
+  <body dur="0:49.862">
+    <div>
+      <p begin="0:07.379" end="0:08.525" itunes:key="L1" ttm:agent="v1"><span begin="0:07.379" end="0:07.429">-</span> <span begin="0:07.650" end="0:07.789">Synced</span> <span begin="0:08.205" end="0:08.246">by</span> <span begin="0:08.307" end="0:08.525">Musek</span></p>
+      <p begin="0:24.251" end="0:25.667" itunes:key="L2" ttm:agent="v1"><span begin="0:24.251" end="0:25.003">Соединение</span> <span begin="0:25.003" end="0:25.667">установлено.</span></p>
+      <p begin="0:25.940" end="0:27.336" itunes:key="L3" ttm:agent="v1"><span begin="0:25.940" end="0:26.601">Уведомление</span> <span begin="0:26.636" end="0:27.336">активировано.</span></p>
+      <p begin="0:27.905" end="0:31.291" itunes:key="L4" ttm:agent="v1"><span begin="0:27.905" end="0:28.341">Программа</span> <span begin="0:28.341" end="0:29.181">"смотрящие"</span> <span begin="0:29.244" end="0:29.324">-</span> <span begin="0:29.352" end="0:29.578">это</span> <span begin="0:29.619" end="0:30.223">лабороторный</span> <span begin="0:30.275" end="0:30.647">модуль</span> <span begin="0:30.647" end="0:31.291">мониторинга</span></p>
+      <p begin="0:31.381" end="0:33.265" itunes:key="L5" ttm:agent="v1"><span begin="0:31.381" end="0:31.451">и</span> <span begin="0:31.451" end="0:32.061">аналитики</span> <span begin="0:32.079" end="0:32.603">желаний</span> <span begin="0:32.603" end="0:33.265">человека.</span></p>
+      <p begin="0:33.748" end="0:37.711" itunes:key="L6" ttm:agent="v1"><span begin="0:33.748" end="0:34.225">Система</span> <span begin="0:34.239" end="0:34.853">фиксирует,</span> <span begin="0:34.978" end="0:35.927">классифицирует</span> <span begin="0:36.052" end="0:36.138">и</span> <span begin="0:36.138" end="0:36.712">оценивает</span> <span begin="0:36.812" end="0:37.278">параметры</span> <span begin="0:37.278" end="0:37.711">желаний,</span></p>
+      <p begin="0:37.734" end="0:39.879" itunes:key="L7" ttm:agent="v1"><span begin="0:37.734" end="0:37.788">в</span> <span begin="0:37.788" end="0:38.524">соотвествии</span> <span begin="0:38.570" end="0:38.700">с</span> <span begin="0:38.732" end="0:39.300">внутренними</span> <span begin="0:39.361" end="0:39.879">метриками.</span></p>
+      <p begin="0:40.675" end="0:44.969" itunes:key="L8" ttm:agent="v1"><span begin="0:40.675" end="0:41.002">Нажав</span> <span begin="0:41.055" end="0:41.148">на</span> <span begin="0:41.204" end="0:41.640">кнопку,</span> <span begin="0:41.904" end="0:42.032">вы</span> <span begin="0:42.032" end="0:42.845">автоматически</span> <span begin="0:42.911" end="0:43.401">подписали</span> <span begin="0:43.499" end="0:43.988">согласие</span> <span begin="0:44.035" end="0:44.128">на</span> <span begin="0:44.192" end="0:44.969">прослушивание</span></p>
+      <p begin="0:45.049" end="0:46.428" itunes:key="L9" ttm:agent="v1"><span begin="0:45.049" end="0:45.412">данного</span> <span begin="0:45.474" end="0:46.428">аудио-материала</span></p>
+      <p begin="0:47.937" end="0:48.494" itunes:key="L10" ttm:agent="v1"><span begin="0:47.937" end="0:48.494">открывай</span></p>
+      <p begin="0:48.817" end="0:49.339" itunes:key="L11" ttm:agent="v1"><span begin="0:48.817" end="0:48.899">*тук*</span> <span begin="0:49.033" end="0:49.108">*тук*</span> <span begin="0:49.254" end="0:49.339">*тук*</span></p>
+    </div>
+  </body>
+</tt>
